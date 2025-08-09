@@ -28,9 +28,7 @@
 
 ## 📫 How to Reach Me
 - **Email:** [fareselfar74@gmail.com](mailto:fareselfar74@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/fareselfar](https://www.linkedin.com/in/fareselfar)  
-- **GitHub:** [github.com/fareselfar](https://github.com/fareselfar)  
-
+- **LinkedIn:** [linkedin.com/in/fareselfar](https://www.linkedin.com/in/fareselfar)
 ---
 
 > 🚀 *"Turning ideas into powerful mobile experiences."*
