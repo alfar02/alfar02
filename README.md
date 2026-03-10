@@ -37,7 +37,7 @@
 ---
 
 ## 🌱 Currently Learning
-- Advanced Flutter & state management (**Bloc**, **Riverpod**, **Provider**)  
+- Advanced Flutter & state management (**Bloc**, **Cubit**, **Provider**)  
 - Backend integration with **Firebase**  
 - Clean Architecture best practices  
 
@@ -45,15 +45,13 @@
 
 ## 💬 Collaboration
 - Innovative mobile app projects  
-- Open-source Flutter contributions  
-- Cross-platform solutions  
 
 ---
 
 ## 📫 Connect With Me
 📧 [fareselfar74@gmail.com](mailto:fareselfar74@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/fareselfar)  
-🐙 [GitHub](https://github.com/alfar02)  
+💼 [LinkedIn](linkedin.com/in/fareselfar)  
+🐙 [GitHub](github.com/alfar02)  
 
 ---
 
